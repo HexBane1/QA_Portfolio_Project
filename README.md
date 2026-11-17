@@ -1,4 +1,4 @@
-# SG QA Portfolio
+# QA Portofolio Project
 
 This is my QA portfolio project. I test Société Générale's public website (in English and French) and two public banking data endpoints, with API tests in Postman and UI tests in Selenium. Everything runs automatically on GitHub Actions.
 
